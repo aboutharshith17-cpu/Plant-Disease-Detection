@@ -1,0 +1,7 @@
+
+.logo {
+  height: 50px;
+  border-radius: 50%;
+  will-change: filter;
+  transition: filter 300ms;
+}
