@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🌟 Project Overview
 
 Welcome to this modern web application built with a clean architecture and a powerful frontend stack. This README provides all the information you need to set up, edit, and deploy the project.
@@ -80,3 +81,6 @@ Connect your repository and follow the deployment instructions of the platform y
 🔗 Custom Domain
 
 Once deployed, you can attach a custom domain through your hosting provider’s domain settings.
+=======
+# Plant-Disease-Detection
+>>>>>>> 9532294f283f291f2b3161b8981a948656cc184a
