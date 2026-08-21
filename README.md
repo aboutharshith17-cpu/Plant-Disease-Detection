@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 🌟 Project Overview
 
 Welcome to this modern web application built with a clean architecture and a powerful frontend stack. This README provides all the information you need to set up, edit, and deploy the project.
