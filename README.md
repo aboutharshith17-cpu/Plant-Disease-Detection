@@ -82,5 +82,5 @@ Connect your repository and follow the deployment instructions of the platform y
 
 Once deployed, you can attach a custom domain through your hosting provider’s domain settings.
 =======
-# Plant-Disease-Detection
->>>>>>> 9532294f283f291f2b3161b8981a948656cc184a
+
+
